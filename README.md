@@ -20,8 +20,14 @@
 
 ---
 User Interfaces
-
+## User Landing Page
 ![home-page](screenshots/userhome.png)
+
+
+## admin Home Page
+![admin-page](screenshots/adminhome.png)
+## Product Page
+![Product-page](screenshots/productDetails.png)
 ## 📦 تثبيت المشروع محليًا
 
 ### 1. استنساخ المستودع
